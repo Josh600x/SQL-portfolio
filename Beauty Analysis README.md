@@ -1,3 +1,7 @@
+(This Analysis uses SQL first(Beauty Sql) to find the departments who struggle and then analyse these departments via excel for a closer look at various statistics(BeautyAdustyed+Vairence is a excel file) then as a visual representatiom tableu was used to create a dashboard and the final analysis is given below)
+
+
+
 Introduction:
 
 This project sees to find ways to increase profits using the internal micro-environment of the business. A data set of retail sales was taken from Kaggle.com to help facilitate this project.
